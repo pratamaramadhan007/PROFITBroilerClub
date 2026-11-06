@@ -1,0 +1,6 @@
+{
+  "name": "PROFIT Broiler Club",
+  "description": "PROFIT Broiler Club - Smart Poultry App untuk manajemen kandang 2 lantai, recording harian, inventaris pakan & OVK, biaya operasional, serta sistem timbangan panen ayam dengan driver, no plat kendaraan & kirim nota via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
